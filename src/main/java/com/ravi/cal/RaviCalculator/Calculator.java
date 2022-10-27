@@ -27,13 +27,13 @@ public class Calculator {
 	// Difference 
 	public long subFucn(long first, long second){
 		
-		return second-first;
+		return second/first;
 	}
 	
 	// Product - *
 	public long mulFucn(long first, long second){
 		
-		return first/second;
+		return first*second;
 	}
 	
 	
